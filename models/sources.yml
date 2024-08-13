@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: google_ads
+    tables:
+      - name: ads_CampaignAudienceConversionStats_7745214896
+      - name: ads_CampaignBasicStats_7745214896
+      - name: ads_CampaignConversionStats_7745214896
+      - name: ads_Campaign_7745214896 # Campain id en bidding stategie
+      - name: ads_CampaignStats_7745214896
+
+  
